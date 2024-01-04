@@ -1,0 +1,73 @@
+---------------------------
+Test 1:
+3
+world
+
+
+3
+4
+5
+6
+7
+8
+9
+---------------------------
+Test 2:
+54.519 8547602306950226000000000000000000000000000
+---------------------------
+Test 3:
+TEST AWK, this is a test
+---------------------------
+Test 4:
+Line 1 is an odd line. Here is its contents:
+TEST AWK, this is a test
+Here are the contents split up:
+TEST
+AWK,
+this
+is
+a
+test
+---------------------------
+Test 4:
+Line 3 is an odd line. Here is its contents:
+hopefully this program works
+Here are the contents split up:
+hopefully
+this
+program
+works
+---------------------------
+Test 3:
+AWK TEST TEST testing testing
+---------------------------
+Test 4:
+Line 5 is an odd line. Here is its contents:
+line 5
+Here are the contents split up:
+line
+5
+---------------------------
+Test 5:
+line 5
+---------------------------
+Test 5:
+line 6
+---------------------------
+Test 4:
+Line 7 is an odd line. Here is its contents:
+line 7
+Here are the contents split up:
+line
+7
+---------------------------
+Test 5:
+line 7
+---------------------------
+Test 5:
+line 8
+---------------------------
+Test 6:
+5
+3
+12

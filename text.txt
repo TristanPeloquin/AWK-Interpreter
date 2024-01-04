@@ -1,0 +1,8 @@
+hello world, this is a test
+i'm writing this to test some awk stuff
+hopefully this program works
+world hello hello testing testing
+line 5
+line 6
+line 7
+line 8
